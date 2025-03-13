@@ -7,7 +7,7 @@
 1. [Variáveis e tipos de dados](variaveis.md)
 1. [Vetores](vetores.md)
 1. [Strings](strings.md)
-1. [Controle de fluxo: seleção](selecao.md.md)
+1. [Controle de fluxo: seleção](selecao.md)
 1. [Controle de fluxo: repetição](repeticao.md)
 1. [Declarando classes](classes.md)
 1. [Especificadores de acesso](especificadoresdeacesso.md)
